@@ -49,12 +49,19 @@ Personalització:
 
 4.2 Importació massiva
 
-    Crea fitxer CSV amb 10 alumnes. Exemple:
+    Crea fitxer CSV amb 10 alumnes. 
 
-username,password,firstname,lastname,email
-alumne1,Contrasenya123,Nom1,Cognom1,email1@exemple.com
-...
-
+username,firstname,lastname,email
+alumne1,Anna,García,anna@example.com
+alumne2,Biel,Martí,biel@example.com
+alumne3,Clara,Solé,clara@example.com
+alumne4,Dani,Rovira,dani@example.com
+alumne5,Elena,Torres,elena@example.com
+alumne6,Ferran,López,ferran@example.com
+alumne7,Gemma,Vila,gemma@example.com
+alumne8,Hugo,Puig,hugo@example.com
+alumne9,Irene,Ferrer,irene@example.com
+alumne10,Joan,Serra,joan@example.com
     Carrega’l des de Usuaris > Carrega usuaris.
 
     Elimina dos alumnes des d'Accions en bloc.
